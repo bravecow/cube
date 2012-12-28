@@ -1,4 +1,4 @@
-cube
+css3 rotating cube
 ====
 
-demo here: http://htmlpreview.github.com/?https://github.com/bravedick/cube/blob/master/index.html
+demo here: http://bravedick.github.com/cube/
