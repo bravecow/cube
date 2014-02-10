@@ -1,4 +1,4 @@
 CSS3 rotating cube
 ====
 
-demo here: http://bravedick.github.com/cube/
+http://bravedick.github.io/cube
